@@ -1,0 +1,11 @@
+---
+title: Soft Matter
+categories:
+    projects
+date: 2024-11-20
+author: Rema
+---
+This blog contains the student projects for the course.
+
+Sample blog post!
+
