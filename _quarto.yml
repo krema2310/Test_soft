@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Soft Matter "
+  title: "Soft Matter"
   navbar:
     left:
       - href: index.qmd
