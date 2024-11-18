@@ -1,1 +1,1 @@
-Sitemap: https://anandology.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://krema2310.github.io/Test_soft/sitemap.xml
